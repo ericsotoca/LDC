@@ -481,7 +481,7 @@ export const MILESTONE_REWARDS: { [milestone: number]: Reward } = {
     description: "Vous venez de franchir le premier palier avec beaucoup de naturel ! Votre complicité commence à prendre forme. Pour assurer la suite, voici un joker indispensable.",
     image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
     quote: "« Le rire est le chemin le plus court entre deux personnes qui s'apprivoisent. »",
-    rewardText: "Promesse n°1 : Un bon pour une anecdote insolite si un silence dure plus de 10 secondes lors du premier rendez-vous que tu vas peut-être obtenir ou pas..."
+    rewardText: "Promesse n°1 : Un bon pour une anecdote insolite si un silence dure plus de 20 secondes lors du premier rendez-vous que tu vas peut-être obtenir ou pas..."
   },
   10: {
     milestone: 10,
