@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Le Défi Compatibilité v14",
+  "description": "",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
