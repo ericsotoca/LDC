@@ -481,7 +481,7 @@ export const MILESTONE_REWARDS: { [milestone: number]: Reward } = {
     description: "Vous venez de franchir le premier palier avec beaucoup de naturel ! Votre complicité commence à prendre forme. Pour assurer la suite, voici un joker indispensable.",
     image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80",
     quote: "« Le rire est le chemin le plus court entre deux personnes qui s'apprivoisent. »",
-    rewardText: "Promesse n°1 : Un bon pour une anecdote insolite (ou un dossier amusant sur moi) si un silence dure plus de 10 secondes lors du premier rendez-vous que vous allez peut-être obtenir."
+    rewardText: "Promesse n°1 : Un bon pour une anecdote insolite si un silence dure plus de 10 secondes lors du premier rendez-vous que tu vas peut-être obtenir ou pas..."
   },
   10: {
     milestone: 10,
@@ -497,7 +497,7 @@ export const MILESTONE_REWARDS: { [milestone: number]: Reward } = {
     description: "Déjà 15 questions franchies avec succès ! Vous entrez dans le cercle très fermé des complices. Gravons cela avec gourmandise.",
     image: "https://images.unsplash.com/photo-1551024601-bec78aea704b?auto=format&fit=crop&w=800&q=80",
     quote: "« Le bonheur ne vaut d'être vécu que s'il est partagé... surtout s'il a un goût de chocolat. »",
-    rewardText: "Promesse n°3 : Le droit contractuel et absolu de piocher avec ta cuillère dans mon dessert si le tien est moins bon (ou juste par gourmandise)."
+    rewardText: "Promesse n°3 : Le droit contractuel et absolu de piocher avec ta cuillère dans mon dessert si le tien est moins bon (ou juste par gourmandise), si l'aventure va plus loin..."
   },
   20: {
     milestone: 20,
@@ -505,7 +505,7 @@ export const MILESTONE_REWARDS: { [milestone: number]: Reward } = {
     description: "20 paliers franchis sans faiblir ! Votre franchise mérite d'être honorée par une quatrième promesse.",
     image: "https://images.unsplash.com/photo-1543007630-9710e4a00a20?auto=format&fit=crop&w=800&q=80",
     quote: "« Les meilleures histoires commencent souvent par un simple échange authentique autour d'un bon verre. »",
-    rewardText: "Promesse n°4 : Le droit absolu de soit choisir le lieu de notre rendez-vous, soit me demander 3 propositions sur mesure."
+    rewardText: "Promesse n°4 : Le droit absolu de soit, choisir le lieu de notre 1er rendez-vous, soit me demander 3 propositions sur mesure."
   },
   25: {
     milestone: 25,
@@ -521,7 +521,7 @@ export const MILESTONE_REWARDS: { [milestone: number]: Reward } = {
     description: "Victoire totale ! 30 questions franchies sans un seul faux pas. Vous avez prouvé une compatibilité extraordinaire.",
     image: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80",
     quote: "« Le hasard fait bien les choses, mais un petit coup de pouce du destin change parfois une vie. »",
-    rewardText: "Promesse n°6 (Ultime) : Le déblocage direct de mon numéro (06 51 33 22 09) en fin de parcours avec le code secret unique à m'envoyer par SMS !"
+    rewardText: "Promesse n°6 (Ultime) : Le déblocage direct de mon numéro en fin de parcours avec le code secret unique à m'envoyer par SMS !"
   }
 };
 
