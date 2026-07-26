@@ -155,7 +155,7 @@ const RAW_QUESTIONS: RawQuestion[] = [
     title: "Communication",
     question: "Face à un désaccord important, comment réagissez-vous ?",
     answers: [
-      "J'exprime immédiatement mes émotions à chaud, quitte à être vif(ve)",
+      "J'exprime immédiatement mes émotions à chaud, quitte à être vive",
       "Je prends du recul pour en parler calmement et de manière constructive",
       "Je préfère éviter le conflit et laisser le temps faire les choses"
     ],
