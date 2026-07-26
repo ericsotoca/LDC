@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: './',
+    base: '/LDC/', // Modifié ici pour correspondre au nom de votre dépôt GitHub
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
